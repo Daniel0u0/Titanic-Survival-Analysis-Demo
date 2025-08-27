@@ -1,0 +1,23 @@
+Ignore virtual environments
+.venv/
+venv/
+Ignore Python bytecode
+pycache/
+*.py[cod]
+*.pyo
+Ignore other common files
+*.egg-info/
+*.eggs/
+*.egg
+build/
+dist/
+*.log
+*.swp
+*.DS_Store
+Thumbs.db
+*.tmp
+If you have Jupyter notebooks
+.ipynb_checkpoints/
+Environment files (if not needed in repo)
+.env
+.env.local
