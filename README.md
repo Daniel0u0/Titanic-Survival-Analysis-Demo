@@ -37,3 +37,6 @@ If the data contains NaN values, the script will automatically fill them.
 This is a demo project designed to demonstrate Python automation and ML skills. If you need to expand, you can add more features or models.
 
 Feedback is welcome if you have any questions!
+
+Citation
+Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
